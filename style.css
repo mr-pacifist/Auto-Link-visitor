@@ -1,0 +1,24 @@
+body{
+    width: 100px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    display: block;
+    font-size: 12px;
+    border: none;
+    margin: 10px 0;
+    color: #ffffff;
+    border-radius: 3px;
+    padding: 5px 20px;
+    cursor: pointer;
+}
+#start{
+    background: #03c000;
+
+}
+#stop{
+    background: #ff0000;
+}
